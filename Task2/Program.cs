@@ -7,6 +7,7 @@ List<Employee> employees = new List<Employee>()
     new Employee("Darkholme", "Van", "Billyevich", 18, kfc)
 };
 var dict = employees.GroupBy(emp => emp.Dep.Name)
+    .OrderByDescending(emp => emp.Key)
     .ToDictionary(emp => emp.Key, emp => emp.ToList());
 foreach (var dep in dict)
 {
