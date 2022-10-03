@@ -1,0 +1,15 @@
+/Users/sunshine/RiderProjects/Week2/Task4/bin/Debug/net6.0/Task4
+/Users/sunshine/RiderProjects/Week2/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/sunshine/RiderProjects/Week2/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/sunshine/RiderProjects/Week2/Task4/bin/Debug/net6.0/Task4.dll
+/Users/sunshine/RiderProjects/Week2/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.dll
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/sunshine/RiderProjects/Week2/Task4/obj/Debug/net6.0/ref/Task4.dll
